@@ -45,5 +45,5 @@ We are finalizing the release of the code and weights. Once public, you will be 
 2. **Load A³-Align** weights for instant advertisement assessment.
 3. **Run the training pipeline** (SFT + GRPO) to reproduce our results.
 
-📝 Citation
+## 📝 Citation
 If you find our work, dataset, or model useful for your research, please consider citing our paper:
